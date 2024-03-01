@@ -1,0 +1,38 @@
+body {
+    background-color: lightslategray;
+    font-family: Oswald;
+    margin: auto;
+}
+.form-section {
+    margin-left: 7px; 
+}
+form {
+    background-color: white;
+    margin: auto;
+    height: 85%;
+    width: 15%;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Oswald';
+}
+form input {
+    margin-bottom: 5px;
+}
+h1 {
+    text-align: center;
+    font-size: 29px;
+}
+.sub {
+    background-color: green;
+    color: white;
+}
+.res {
+    background-color: red;
+    color: white;
+}
+button {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    margin-left: 7px; 
+}
